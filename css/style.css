@@ -15,6 +15,26 @@ body{
 
 /* header */
 
+#logo{
+
+    height: 80px;
+    vertical-align: middle;
+}
+
+.header-box{    
+    
+    background-color: white;
+    height: 100px;
+    
+}
+h1{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 50px;
+
+    
+}
+
 
 /* /header */
 
