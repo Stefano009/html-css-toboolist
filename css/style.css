@@ -10,7 +10,22 @@
 /* common */
 body{
     background-color: rgba(128,128,128, 0.3);
+
 }
+
+.task{
+    display: inline-block;
+    padding-top: 50px;
+    font-size: 35px;
+
+}
+
+.corpo-pagina{
+    margin-top: 2px;
+    padding-left: 50px ;
+    background-color: white;
+}
+
 /* /common */
 
 /* header */
@@ -46,6 +61,8 @@ main{
     margin: 0 auto;
 }
 
+/* bottoni */
+
 .barra-aggiunta{
     margin-top: 60px;
     height: 60px;
@@ -68,5 +85,9 @@ main{
     border: lightgray solid 2px;
     color: lightgrey;
 }
+
+/* /bottoni */
+
+
 
 /* /main */
