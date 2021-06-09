@@ -134,6 +134,9 @@ h2{
 /* /common */
 
 /* header */
+header{
+    margin-top: 5px;
+}
 
 #logo{
 
