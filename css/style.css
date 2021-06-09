@@ -40,6 +40,33 @@ h1{
 
 /* main */
 
+main{
 
+    width: 80%;
+    margin: 0 auto;
+}
+
+.barra-aggiunta{
+    margin-top: 60px;
+    height: 60px;
+    background-color: white;
+}
+
+#bottone-blu{
+    width: 100px;
+    height: 30px;
+    margin: 15px 0px 15px 80px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+
+#bottone-bianco{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: lightgray solid 2px;
+    color: lightgrey;
+}
 
 /* /main */
