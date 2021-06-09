@@ -66,83 +66,41 @@ h2{
     vertical-align: middle;
 }
 
-.bottone-blu{
+.bottone{
     display: inline-block;
     margin-top: 15px;
-    margin-left: 10px;
-    
+    margin-left: 10px;    
     width: auto;
     height: auto;
     border-radius: 10px;
     padding: 8px;
+    color: white;
+    vertical-align: middle;
+}
+
+.blu{
+
     background-color: blue;
-    color: white;
-    vertical-align: middle;
-}
 
-.bottone-viola{
-    display: inline-block;
-    margin-top: 15px;
-    margin-left: 10px;    
-    width: auto;
-    height: auto;
-    border-radius: 10px;
-    padding: 8px;
+}
+.viola{
     background-color: purple;
-    color: white;
-    vertical-align: middle;
 }
 
-.bottone-bluverde{
-    display: inline-block;
-    margin-top: 15px;
-    margin-left: 10px;    
-    width: auto;
-    height: auto;
-    border-radius: 10px;
-    padding: 8px;
+.bluverde{
     background-color: seagreen;
-    color: white;
-    vertical-align: middle;
 }
 
-.bottone-arancione{
-    display: inline-block;
-    margin-top: 15px;
-    margin-left: 10px;    
-    width: auto;
-    height: auto;
-    border-radius: 10px;
-    padding: 8px;
+.arancione{
     background-color: orange;
-    color: white;
-    vertical-align: middle;
 }
 
-.bottone-magenta{
-    display: inline-block;
-    margin-top: 15px;
-    margin-left: 10px;    
-    width: auto;
-    height: auto;
-    border-radius: 10px;
-    padding: 8px;
+.magenta{
     background-color: magenta;
-    color: white;
-    vertical-align: middle;
 }
 
-.bottone-verde{
-    display: inline-block;
-    margin-top: 15px;
-    margin-left: 10px;    
-    width: auto;
-    height: auto;
-    border-radius: 10px;
-    padding: 8px;
+.verde{
     background-color: green;
-    color: white;
-    vertical-align: middle;
 }
 
 /* /common */
