@@ -43,6 +43,18 @@ h2{
     color: lightgreen;
 }
 
+.task-uncompleted{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    font-size: 15px;
+    border-radius: 50%;
+    border: red solid 1px;
+    vertical-align: middle;
+    text-align: center;
+    color: red;
+}
+
 .dimensione-testo{
     font-size: 25px;
 
